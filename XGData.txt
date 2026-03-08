@@ -1,0 +1,61 @@
+
+    
+XGBoost 1
+    Precision score: 0.9504950495049505
+    Recall score: 0.8135593220338984        
+    roc_auc score: 0.9785565227675255
+    training time: 1.4506125450134277 second
+    
+XGBoost 2
+    Precision score: 0.9152542372881356
+    Recall score: 0.8        
+    roc_auc score: 0.9766762611599173
+    training time: 1.6566591262817383 second
+    
+XGBoost 3
+    Precision score: 0.9291338582677166
+    Recall score: 0.8428571428571429        
+    roc_auc score: 0.9824894860423694
+    training time: 1.7125647068023682 second
+    
+XGBoost 4
+    Precision score: 0.8425925925925926
+    Recall score: 0.8125        
+    roc_auc score: 0.9770362141550952
+    training time: 1.5244338512420654 second
+    
+XGBoost 5
+    Precision score: 0.926605504587156
+    Recall score: 0.8145161290322581        
+    roc_auc score: 0.9712967534984285
+    training time: 1.6210808753967285 second
+    
+XGBoost 6
+    Precision score: 0.9354838709677419
+    Recall score: 0.8207547169811321        
+    roc_auc score: 0.9772125810225238
+    training time: 1.5781302452087402 second
+    
+XGBoost 7
+    Precision score: 0.9108910891089109
+    Recall score: 0.8        
+    roc_auc score: 0.9783194016395097
+    training time: 1.6024038791656494 second
+    
+XGBoost 8
+    Precision score: 0.9166666666666666
+    Recall score: 0.8608695652173913        
+    roc_auc score: 0.9789482085943679
+    training time: 1.5354866981506348 second
+    
+XGBoost 9
+    Precision score: 0.9245283018867925
+    Recall score: 0.8032786885245902        
+    roc_auc score: 0.9713075546371209
+    training time: 1.6514322757720947 second
+    
+XGBoost 10
+    Precision score: 0.9391304347826087
+    Recall score: 0.782608695652174        
+    roc_auc score: 0.971913100989188
+    training time: 1.5684411525726318 second

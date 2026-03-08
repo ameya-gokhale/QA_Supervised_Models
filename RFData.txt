@@ -1,0 +1,61 @@
+
+    
+RandomForestClassifier 1
+    Precision score: 0.42857142857142855
+    Recall score: 0.9310344827586207        
+    roc_auc score: 0.9950255736858803
+    training time: 37.144248962402344 second
+    
+RandomForestClassifier 2
+    Precision score: 0.4327731092436975
+    Recall score: 0.8442622950819673        
+    roc_auc score: 0.979396108748397
+    training time: 37.17551040649414 second
+    
+RandomForestClassifier 3
+    Precision score: 0.4954545454545455
+    Recall score: 0.9083333333333333        
+    roc_auc score: 0.9787137859561258
+    training time: 36.96001434326172 second
+    
+RandomForestClassifier 4
+    Precision score: 0.6078431372549019
+    Recall score: 0.8017241379310345        
+    roc_auc score: 0.9675129420701686
+    training time: 36.492844343185425 second
+    
+RandomForestClassifier 5
+    Precision score: 0.5822222222222222
+    Recall score: 0.8851351351351351        
+    roc_auc score: 0.9870083583175034
+    training time: 35.85806941986084 second
+    
+RandomForestClassifier 6
+    Precision score: 0.4528301886792453
+    Recall score: 0.8205128205128205        
+    roc_auc score: 0.9778758907267032
+    training time: 36.3932991027832 second
+    
+RandomForestClassifier 7
+    Precision score: 0.4649122807017544
+    Recall score: 0.8548387096774194        
+    roc_auc score: 0.9671965328412494
+    training time: 38.97521376609802 second
+    
+RandomForestClassifier 8
+    Precision score: 0.46558704453441296
+    Recall score: 0.8914728682170543        
+    roc_auc score: 0.9804834356901524
+    training time: 41.132391691207886 second
+    
+RandomForestClassifier 9
+    Precision score: 0.5333333333333333
+    Recall score: 0.8253968253968254        
+    roc_auc score: 0.9735120331735223
+    training time: 40.45450806617737 second
+    
+RandomForestClassifier 10
+    Precision score: 0.47596153846153844
+    Recall score: 0.8048780487804879        
+    roc_auc score: 0.9696908295213031
+    training time: 40.24796772003174 second
